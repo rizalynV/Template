@@ -14,7 +14,7 @@ Take a look at the screenshot below or preview the live site here: https://gatsb
 
 ## Table of Contents:
 
-- [Quick Steps + Deploy Options](#quick-setup--deploy-option)
+- [Easy Steps + Deploy Options](#quick-setup--deploy-option)
   - [Cloning + Installing Packages](#cloning--installing-packages)
 - [Deploying](#deploying)
 - [Project Structure](#project-structure)
